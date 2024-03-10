@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Het Monpara!
 
-![Profile views](https://gpvc.arturio.dev/het-monpara)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Het2518&show_icons=true&theme=radical)
+
 
 ## 🚀 About Me
 
