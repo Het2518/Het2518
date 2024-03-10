@@ -12,10 +12,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Het2518&theme=radical)
 
-## 📊 GitHub Contributions
+## 📈 GitHub Activity
 
 [![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Het2518&theme=dracula&area=true)](https://github.com/Het2518)
-
 
 ## 👥 GitHub Followers
 
