@@ -1,13 +1,27 @@
 # Hello, I'm Het Monpara! 👋
 
+## 📈 GitHub Activity
+
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Het2518&show_icons=true&theme=radical)
+
+## 🌐 Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Het2518&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Het2518&theme=radical)
-[![Spotify Now Playing](https://novatorem-git-master.shreyas-123.vercel.app/api/spotify-playing)](https://open.spotify.com/user/your_spotify_username)
-[![WakaTime](https://wakatime.com/badge/user/your_wakatime_username.svg)](https://wakatime.com/@your_wakatime_username)
-![Profile views](https://gpvc.arturio.dev/het-monpara)
+
+## 📊 GitHub Contributions
+
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api/contributions/?username=Het2518&theme=radical)
+
+## 👥 GitHub Followers
+
 ![GitHub Followers](https://img.shields.io/github/followers/Het2518?label=Follow&style=social)
+
+## ⭐ GitHub Stars
+
 ![GitHub Stars](https://img.shields.io/github/stars/Het2518?affiliations=OWNER&style=social)
 
 ## 🚀 About Me
