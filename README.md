@@ -12,9 +12,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Het2518&theme=radical)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Het2518&show_icons=true&theme=radical)
 
 ## 👥 GitHub Followers
 
