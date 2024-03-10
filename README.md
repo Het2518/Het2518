@@ -1,6 +1,4 @@
-![Header Image](https://www.dropbox.com/scl/fi/1phvdzbdbwq0f3bojdrx3/WhatsApp-Image-2024-03-10-at-10.53.08_3e25391e.jpg?rlkey=xzk3vjo2lnwpxoxkb9woyp7sk&dl=0)
-
-# 👋 Hello, I'm Het Monpara!
+# Hello, I'm Het Monpara! 👋
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Het2518&show_icons=true&theme=radical)
 
