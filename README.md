@@ -1,4 +1,4 @@
-# Hello, I'm Het Monpara! 👋
+# Hello, I'm Het Monpara 👋
 
 ## 📈 GitHub Activity
 
@@ -11,7 +11,6 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Het2518&theme=radical)
-
 
 ## 👥 GitHub Followers
 
@@ -48,7 +47,19 @@
 - **Technologies Used**: React for building the user interface, Firebase for backend services including authentication, database management, and hosting, and various libraries for state management and UI components. 🌟
 - **Problem Solved**: The platform aims to make movie discovery and reviewing more interactive and engaging, providing users with a space to share their opinions and find new movies to watch. 🎬
 
-Both projects are currently in development, with ongoing efforts to enhance their features and user experience. I'm excited to continue working on these projects and make them even more beautiful and functional. 🚀
+### 3. **Weather PP**
+
+**Weather ** is a Web application that provides real-time weather updates and forecasts. Developed using JavaScript And React, this project offers users a convenient way to stay informed about the weather. 🌦️
+
+- **Technologies Used**: Html, Tailwind CSS and Js OpenWeatherMap API for weather data. 📱
+- **Problem Solved**: Addresses the need for a quick and easy way to access weather information, making it easier for users to plan their day based on the weather. ☀️
+
+### 4. **Vaultify**
+
+**Vaultify** is a secure password manager built using the MERN stack. It allows users to securely store and manage their passwords, enhancing online security. 🔒
+
+- **Technologies Used**: MongoDB for database management, Express.js for server-side operations, React for building the user interface, and Node.js for the backend. 🛠️
+- **Problem Solved**: Addresses the challenge of securely managing multiple passwords, providing users with a simple and effective solution to enhance their online security. 🔑
 
 ## 📚 Education
 
@@ -70,7 +81,7 @@ Feel free to reach out if you're interested in connecting, sharing insights, or 
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with professionals in the tech industry, sharing ideas, and learning from each other. Let's build a network that drives innovation! 🌐
+I'm always open to connecting with professionals in the tech industry, sharing ideas, and learning from each other. Let's build a network that drives innovation 🌐
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/het2518)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Het2518)
