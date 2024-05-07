@@ -47,9 +47,9 @@
 - **Technologies Used**: React for building the user interface, Firebase for backend services including authentication, database management, and hosting, and various libraries for state management and UI components. 🌟
 - **Problem Solved**: The platform aims to make movie discovery and reviewing more interactive and engaging, providing users with a space to share their opinions and find new movies to watch. 🎬
 
-### 3. **Weather PP**
+### 3. **Weather**
 
-**Weather ** is a Web application that provides real-time weather updates and forecasts. Developed using JavaScript And React, this project offers users a convenient way to stay informed about the weather. 🌦️
+**Weather** is a Web application that provides real-time weather updates and forecasts. Developed using JavaScript And React, this project offers users a convenient way to stay informed about the weather. 🌦️
 
 - **Technologies Used**: Html, Tailwind CSS and Js OpenWeatherMap API for weather data. 📱
 - **Problem Solved**: Addresses the need for a quick and easy way to access weather information, making it easier for users to plan their day based on the weather. ☀️
