@@ -16,9 +16,14 @@
 
 ## 👋 Hey there! I'm Het.
 
-I'm currently diving deep into the world of **Machine Learning** as an M.Tech student at **DA-IICT**. My journey started with Computer Engineering, and now I'm obsessed with how we can use AI to solve real-world problems. Whether it's Computer Vision, Deep Learning, or the latest in GenAI, I love building things that are not just smart, but also scalable and efficient.
+I'm currently pursuing an M.Tech in Machine Learning at DA-IICT. Before that, I completed my Bachelor's in Computer Engineering, where I developed a strong interest in AI and software development.
 
-When I'm not training models, you'll probably find me tinkering with software architecture or exploring new ways to bridge the gap between research and practical applications. I'm always up for a challenge and love collaborating on projects that push the boundaries of what's possible with AI.
+I enjoy working on Machine Learning, Deep Learning, Computer Vision, and Generative AI projects. What interests me most is taking an idea, building it step by step, and turning it into something people can actually use.
+
+Along with AI, I also like building full-stack applications and learning how different parts of a system work together. I spend a lot of time exploring new technologies, working on projects, and improving my skills through hands-on experience.
+
+I'm always interested in learning from others, sharing ideas, and working on projects that solve real problems.
+
 
 ```python
 class HetMonpara:
