@@ -1,200 +1,161 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Het%20Monpara&fontSize=70&fontAlignY=35&desc=ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Problem%20Solver&descAlignY=55&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Het%20Monpara&fontSize=80&fontAlignY=35&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Software%20Developer%20%7C%20M.Tech%20@%20DA-IICT&descAlignY=55&descSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Het+Monpara+%F0%9F%91%8B;MTech+ML+Student+%40+DA-IICT+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB;AI+%2F+ML+Explorer+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Het+Monpara+%F0%9F%91%8B;MTech+Machine+Learning+Student+%F0%9F%8E%93;Focusing+on+Deep+Learning+%26+CV+%F0%9F%A4%96;Passionate+about+AI+Research+%26+Engineering+%F0%9F%9A%80;Building+Scalable+Software+Solutions+%F0%9F%92%BB;Let%27s+Connect+and+Innovate+Together!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Het2518&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/Het2518)
 [![GitHub followers](https://img.shields.io/github/followers/Het2518?label=Followers&style=for-the-badge&color=purple&labelColor=2d2d2d)](https://github.com/Het2518?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Het2518?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=2d2d2d)](https://github.com/Het2518)
+[![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-Total%20Stars-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Het2518)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 Hey there! I'm Het.
+
+I'm currently diving deep into the world of **Machine Learning** as an M.Tech student at **DA-IICT**. My journey started with Computer Engineering, and now I'm obsessed with how we can use AI to solve real-world problems. Whether it's Computer Vision, Deep Learning, or the latest in GenAI, I love building things that are not just smart, but also scalable and efficient.
+
+When I'm not training models, you'll probably find me tinkering with software architecture or exploring new ways to bridge the gap between research and practical applications. I'm always up for a challenge and love collaborating on projects that push the boundaries of what's possible with AI.
 
 ```python
 class HetMonpara:
     def __init__(self):
-        self.name       = "Het Monpara"
-        self.location   = "Gujarat, India 🇮🇳"
-        self.education  = "MTech Machine Learning @ DA-IICT"
-        self.prev_edu   = "BE Computer Engineering @ GEC Bhavnagar  |  8.61 CGPA"
-        self.focus      = ["ML / AI", "Full-Stack Dev", "Problem Solving"]
-        self.languages  = ["Python", "JavaScript", "Java", "C", "C++", "Dart"]
-        self.stack      = ["MERN Stack", "React", "Node.js", "Flutter"]
-        self.interests  = ["Generative AI", "Data Analysis", "Chrome Extensions"]
-        self.motto      = "Build things that matter 🚀"
+        self.role       = "Aspiring AI/ML Engineer"
+        self.learning   = "M.Tech in ML @ DA-IICT"
+        self.foundation = "B.E. Computer Engineering"
+        self.obsessions = ["Computer Vision", "Deep Learning", "GenAI", "Scalable Systems"]
+        self.drive      = "Turning complex data into intelligent solutions."
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together.")
+    def get_mission(self):
+        return "Building the future, one neuron at a time. 🚀"
 
 me = HetMonpara()
-me.say_hi()
+print(me.get_mission())
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ My Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend & Web
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🤖 AI, ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### 🧩 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+### 🌐 Software Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🤖 AI / ML & Data
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗃️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Het2518&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Het2518 trophies" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Het2518&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het2518&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Het2518&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
-## 📈 Contribution Activity
+## 🌟 What I've Been Working On
 
 <div align="center">
 
-[![Het's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Het2518&theme=tokyo-night&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| Project | What is it? | Tech I Used |
+| :--- | :--- | :--- |
+| 🔬 **[SMILE Lab](https://kdmlab.daiict.ac.in/)** | Working with the SMILE research team on advanced ML and Knowledge Discovery. | `Python` `Deep Learning` |
+| 🏏 **[IPL Win Predictor](https://github.com/Het2518/IPL-Analysis-ML-Project)** | A ball-by-ball win probability predictor using ensemble learning. | `XGBoost` `Streamlit` |
+| 🏠 **[GujEstate AI](https://github.com/Het2518/GujEstateAI-Gujarat-Real-Estate-Prediction-System)** | An end-to-end regression model for real estate valuation in Gujarat. | `Scikit-Learn` `Matplotlib` |
+| 🧠 **[BrowserX](https://github.com/Het2518)** | A Chrome extension that brings Generative AI right into your browser. | `JS` `GenAI` `Chrome API` |
+| 🎬 **[NetflixGPT](https://github.com/Het2518/MovieMingle)** | A movie discovery app that uses GPT to give you personalized recommendations. | `React` `OpenAI API` |
+| 💼 **[LinkedIn Recommendation](https://github.com/Het2518)** | An NLP tool that helps you write personalized LinkedIn recommendations. | `Python` `NLP` `GenAI` |
+| ☁️ **[Weather App](https://github.com/Het2518)** | A clean, real-time weather forecasting app with location detection. | `JS` `REST API` |
+| 🎓 **ALAP App** | A networking platform connecting students with alumni for mentorship. | `Node.js` `Flutter` `MongoDB` |
+| 📊 **Shark Tank India ML** | Predicting pitch success on Shark Tank India with a live dashboard. | `Python` `Streamlit` `sklearn` |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌟 Flagship Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 **[BrowserX](https://github.com/Het2518)** | AI-powered Chrome extension suite — smart productivity tools built on Generative AI | `JS` `Chrome API` `GenAI` |
-| 🎓 **[ALAP App](https://github.com/Het2518)** | Alumni networking platform connecting students & alumni for mentorship & opportunities | `Node.js` `Flutter` `MongoDB` |
-| 📊 **[Shark Tank India ML](https://github.com/Het2518)** | ML model predicting pitch success on Shark Tank India with interactive live dashboard | `Python` `Streamlit` `sklearn` |
-| 🔬 **[MINOR Project](https://github.com/Het2518/MINOR_project)** | Final-year minor project — ML/AI solution tackling a real-world problem domain | `Python` `ML` `Data Science` |
-
-### 🌐 Web & App Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎬 **[MovieMingle / NetflixGPT](https://github.com/Het2518/MovieMingle)** | AI-powered movie discovery app with GPT-driven recommendations & Netflix-style UI | `React` `GPT API` `Firebase` |
-| 📄 **[Resume Builder](https://github.com/Het2518/resume_builder)** | Dynamic resume generator — customizable templates, live preview, and PDF export | `React` `JavaScript` `CSS` |
-| 😊 **[Smile Group](https://github.com/Het2518/smile_group)** | Community social platform for positive group engagement and peer interaction | `MERN Stack` |
-| ✉️ **[STMP](https://github.com/Het2518/stmp)** | Shark tank based machine learning prediction on deal, amount and sharks | `Ensamble Models` `ML` |
-
-### 🤖 AI / ML Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 💼 **[LinkedIn Recommendation](https://github.com/Het2518/linkedin_reccomdation)** | NLP-powered tool to auto-generate personalized LinkedIn recommendation messages | `Python` `NLP` `GenAI` |
-| 🏏 **[Cricket Analyzer](https://github.com/Het2518/cricker)** | Cricket match data analyser with player stats, predictions, and visual dashboards | `Python` `Pandas` `Streamlit` |
-
-### ⚡ Mini Projects & Utilities
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| ☁️ **[Weather App](https://github.com/Het2518/Weather_App)** | Real-time weather forecasting app with location detection and clean UI | `JS` `REST API` |
-| 🗂️ **[MY\_DE](https://github.com/Het2518/MY_DE)** | Personal dashboard & digital experience utility app | `JavaScript` |
-
----
-
-## 📚 Education
-
-<br/>
+## 🎓 My Academic Journey
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                                                                  ║
-  ║   🎓  M.Tech — Machine Learning                                  ║
-  ║                                                                  ║
-  ║   Dhirubhai Ambani Institute of Information &                    ║
-  ║   Communication Technology  (DA-IICT), Gandhinagar              ║
-  ║                                                                  ║
-  ║   📅  2025 – Present  (Currently Pursuing)                       ║
-  ║   🔬  ML Algorithms · Deep Learning · AI Systems                ║
-  ║                                                                  ║
-  ╚══════════════════════════════════════════════════════════════════╝
-                              ▲
-                              │  Continued to higher education
-                              │
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                                                                  ║
-  ║   🎓  B.E. — Computer Engineering                                ║
-  ║                                                                  ║
-  ║   Government Engineering College (GEC), Bhavnagar               ║
-  ║                                                                  ║
-  ║   📅  2021 – 2025  (Completed)                                   ║
-  ║   📊  CGPA: 8.61 / 10.0                                          ║
-  ║   🏅  Strong Academic Record · Full-Stack & ML Projects          ║
-  ║                                                                  ║
-  ╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Het2518/Het2518/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Het2518/Het2518/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Het2518/Het2518/output/github-snake.svg" />
-</picture>
+| Degree | Where | When | Focus |
+| :--- | :--- | :--- | :--- |
+| **M.Tech in Machine Learning** | **DA-IICT, Gandhinagar** | 2025 - 2027 | **Deep Learning & AI Systems** |
+| **B.E. in Computer Engineering** | **GEC, Bhavnagar** | 2021 - 2025 | **8.61 CGPA** |
 
 </div>
 
 ---
 
-## 🌍 Let's Connect
+## 📊 My GitHub Journey
+
+<div align="center">
+
+### 🚀 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Het2518&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Het2518&layout=compact&langs_count=10&theme=radical&hide_border=true" />
+
+</div>
+<br><br>
+
+### 🔥 Contribution Streak
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Het2518&theme=radical&hide_border=true" />
+
+<br><br>
+
+### 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Het2518&theme=redical&hide_border=true&area=true" />
+
+<br><br>
+
+### 📋 GitHub Profile Overview
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Het2518&theme=radical" />
+
+<br><br>
+
+### 💻 Language Insights
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Het2518&theme=radical" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Het2518&theme=radical" />
+
+<br><br>
+
+### ⚡ Development Metrics
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Het2518&theme=radical" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Het2518&theme=radical&utcOffset=5.5" />
+
+</div>
+
+
+---
+
+## 🌍 Let's Connect!
+
+I'm always looking to connect with fellow developers and AI enthusiasts. Feel free to reach out!
 
 <div align="center">
 
@@ -205,17 +166,13 @@ me.say_hi()
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 💬 Quote I Live By
+> "The best way to predict the future is to create it." — Alan Kay
 
-> *"The best way to predict the future is to **create it**."*  — Alan Kay
-
-<br/>
-
-**⭐ If you find my work useful, consider starring a repo — it truly means a lot! ⭐**
+**Let's build something amazing together! 🚀**
 
 </div>
 
