@@ -107,13 +107,10 @@ print(me.get_mission())
 
 ### 🚀 GitHub Statistics
 
-<div align="center">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Het2518&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Het2518&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Het2518&layout=compact&langs_count=10&theme=radical&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Het2518&layout=compact&langs_count=10&theme=radical&hide_border=true" />
-
-</div>
 <br><br>
 
 ### 🔥 Contribution Streak
@@ -124,7 +121,7 @@ print(me.get_mission())
 
 ### 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Het2518&theme=redical&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Het2518&theme=radical&hide_border=true&area=true" />
 
 <br><br>
 
