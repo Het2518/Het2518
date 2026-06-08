@@ -79,7 +79,7 @@ print(me.get_mission())
 
 | Project | What is it? | Tech I Used |
 | :--- | :--- | :--- |
-| 🔬 **[SMILE Lab](https://kdmlab.daiict.ac.in/)** | Working with the SMILE research team on advanced ML and Knowledge Discovery. | `Python` `Deep Learning` |
+| 🔬 **[SMILE Lab](https://smilegroup.vercel.app/)** | Working with the SMILE research team on advanced ML and Knowledge Discovery. | `Python` `Deep Learning` |
 | 🏏 **[IPL Win Predictor](https://github.com/Het2518/IPL-Analysis-ML-Project)** | A ball-by-ball win probability predictor using ensemble learning. | `XGBoost` `Streamlit` |
 | 🏠 **[GujEstate AI](https://github.com/Het2518/GujEstateAI-Gujarat-Real-Estate-Prediction-System)** | An end-to-end regression model for real estate valuation in Gujarat. | `Scikit-Learn` `Matplotlib` |
 | 🧠 **[BrowserX](https://github.com/Het2518)** | A Chrome extension that brings Generative AI right into your browser. | `JS` `GenAI` `Chrome API` |
