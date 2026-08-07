@@ -160,7 +160,7 @@ I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhi
 
 | Degree | Institution | Duration | Focus |
 |:---|:---|:---:|:---|
-| M.Tech — Machine Learning | DA-IICT, Gandhinagar | 2025–2027 | Deep Learning and AI Systems |
+| M.Tech — Machine Learning | DA-IICT, Gandhinagar | 2025–2027 | CGPA: 8.31/10 |
 | B.E. — Computer Engineering | GEC, Bhavnagar | 2021–2025 | CGPA: 8.61/10 |
 
 </div>
