@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Het2518&label=Profile+Views&color=8a2be2&style=for-the-badge&base=439" />
+<img src="https://komarev.com/ghpvc/?username=Het2518&label=Profile+Views&color=8a2be2&style=for-the-badge&base=440" />
 <a href="https://github.com/Het2518?tab=followers"><img src="https://img.shields.io/github/followers/Het2518?label=Followers&style=for-the-badge&color=purple&labelColor=2d2d2d" /></a>
 <a href="https://github.com/Het2518?tab=repositories"><img src="https://img.shields.io/badge/Repositories-46-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://hetmonpara.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=netlify&logoColor=white" /></a>
@@ -17,65 +17,83 @@
 
 <br/>
 
-##  About Me
+## About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-I'm **Het Monpara**, currently pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhinagar**. Most of my time goes into building intelligent systems end‑to‑end — not just training a model, but taking it from raw data all the way to something that's actually served, monitored, and used.
+I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhinagar**. My work centers on building intelligent systems end-to-end — not just training a model, but taking it from raw data through to something that's actually served, monitored, and used in the real world.
 
-**Right now I'm working on:**
+**Currently building:**
 
-- 🔭 Deep learning for wireless RF signal classification
-- 🏃 Sensor-based human activity recognition
-- 🤖 RAG-powered engineering assistants
-- 📈 GPU demand forecasting and MLOps pipelines
-- 🚕 Multi-task ML for ride intelligence
-- 📊 Predictive modeling on real-world structured data
-- 🌱 Currently deepening my knowledge of **Vision Transformers** and **LLM agent systems**
-- 💬 Ask me about **Deep Learning, Computer Vision, RAG, and MLOps**
+- Deep learning for wireless RF signal classification
+- Sensor-based human activity recognition
+- RAG-powered engineering assistants
+- Cloud-native IoT monitoring and observability
+- GPU demand forecasting and MLOps pipelines
+- Multi-task ML for ride intelligence
+
+**Currently exploring:** Vision Transformers, LLM agent systems, and distributed training
 
 <br clear="right"/>
 
-<details>
-<summary><b>🐍 <code>class HetMonpara:</code> — click to expand</b></summary>
+---
+
+## Featured Projects
+
+<details open>
+<summary><b>Deep Learning & Computer Vision</b></summary>
 <br/>
 
-```python
-class HetMonpara:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.education = "M.Tech Machine Learning @ DA-IICT"
-        self.focus = ["Deep Learning", "Computer Vision", "Generative AI", "RAG", "MLOps", "AI Systems"]
+| Project | What It Does | Stack |
+|:---|:---|:---:|
+| **[RFVision](https://github.com/Het2518/RFVision)** | 21-class RF spectrogram classification — ResNet50, EfficientNet, ViT & CNN-ViT hybrids, LDAM + contrastive learning, Grad-CAM explainability | `PyTorch` `TIMM` `Grad-CAM` |
+| **[GymSense AI](https://github.com/Het2518/GymSense)** | Hybrid CNN + Dilated Self-Attention on 7-channel sensor telemetry — activity recognition, rep counting, tempo scoring, LLM coaching | `TensorFlow` `FastAPI` `React` `Groq` |
 
-    def mission(self):
-        return "Build intelligent systems that move from research to production."
+</details>
 
-het = HetMonpara()
-print(het.mission())
-```
+<details>
+<summary><b>Generative AI & Applied ML</b></summary>
+<br/>
+
+| Project | What It Does | Stack |
+|:---|:---|:---:|
+| **[Engineering Intelligence Hub](https://github.com/Het2518/Engineer-Hub-Intelligence-Platform)** | Full-stack RAG platform — document ingestion, hybrid vector search, citation-backed LLM answers | `FastAPI` `Next.js` `LangChain` `ChromaDB` |
+| **[Uber Ride Intelligence](https://github.com/Het2518/UBER_DATA_ANALYSIS)** | Multi-task pipeline — ride-outcome prediction, CatBoost fare prediction, LSTM demand forecasting, K-Means segmentation | `Scikit-Learn` `CatBoost` `Power BI` |
+| **[Shark Tank Intelligence](https://github.com/Het2518/SHARK_TANK_X_3)** | Three-task pipeline — deal prediction (62% acc.), valuation (R² 0.77), multi-label investor prediction | `Pandas` `Gradient Boosting` `Lasso` |
+| **[STMP: Shark Tank Model Prediction](https://github.com/Het2518/STMP-Shark-Tank-Model-Prediction)** | Earlier-stage model exploring deal-outcome prediction on Shark Tank pitch data — the groundwork that led to Shark Tank Intelligence | `Python` `Scikit-Learn` |
+
+</details>
+
+<details>
+<summary><b>Infrastructure & MLOps</b></summary>
+<br/>
+
+| Project | What It Does | Stack |
+|:---|:---|:---:|
+| **[GPU Cloud Forecasting](https://github.com/Het2518/gpu-cloud-resource-forecasting)** | GPU demand forecasting with a full production ML lifecycle — tracking, serving, monitoring, dashboards | `PyTorch` `XGBoost` `MLflow` `Grafana` |
+| **[Smart Irrigation System](https://github.com/Het2518/Smart-Irrigation-System)** | Cloud-native IoT monitoring system for real-time sensor data — containerized services with managed observability on AWS | `Python` `Docker` `Prometheus` `AWS Managed Grafana` `AWS SigV4` |
+
+</details>
+
+<details>
+<summary><b>Web, Tools & Analysis</b></summary>
+<br/>
+
+| Project | What It Does | Stack |
+|:---|:---|:---:|
+| **[DataDesk](https://github.com/Het2518/SQL_Practice)** | Browser-based SQL learning platform — SQLite/WASM, Monaco Editor, ER diagrams | `React` `WASM` `Supabase` |
+| **[frame2pdf](https://github.com/Het2518/frame2pdf)** | Web-based utility for converting image frames into a single PDF document | `JavaScript` |
+| **[Cricket](https://github.com/Het2518/Cricket)** | Exploratory analysis and prediction modeling on cricket match data | `Python` `Jupyter` |
+| **[IPL Win Predictor](https://github.com/Het2518/IPL-Analysis-ML-Project)** | Ball-by-ball IPL win probability prediction | `XGBoost` `Streamlit` |
+| **[GujEstate AI](https://github.com/Het2518/GujEstateAI-Gujarat-Real-Estate-Prediction-System)** | Gujarat real-estate valuation pipeline | `Scikit-Learn` `Pandas` |
+| **[LinkedIn Recommendation](https://github.com/Het2518/Linkedin_Recommendation)** | NLP-based professional recommendation system | `Python` `NLP` `GenAI` |
+| **[MovieMingle](https://github.com/Het2518/MovieMingle)** | AI-powered movie discovery app | `React` `OpenAI` |
 
 </details>
 
 <br/>
 
-## 🚀 Featured AI/ML Projects
-
-<div align="center">
-
-| Project | What It Does | Stack |
-|:---|:---|:---:|
-| 🛰️ **[RFVision](https://github.com/Het2518/RFVision)** | 21-class RF spectrogram classification — ResNet50, EfficientNet, ViT & CNN-ViT hybrids, LDAM + contrastive learning, Grad-CAM explainability | `PyTorch` `TIMM` `Grad-CAM` |
-| 🏋️ **[GymSense AI](https://github.com/Het2518/GymSense)** | Hybrid CNN + Dilated Self-Attention on 7-channel sensor telemetry — activity recognition, rep counting, tempo scoring, LLM coaching | `TensorFlow` `FastAPI` `React` `Groq` |
-| 📚 **[Engineering Intelligence Hub](https://github.com/Het2518/Engineer-Hub-Intelligence-Platform)** | Full-stack RAG platform — document ingestion, hybrid vector search, citation-backed LLM answers | `FastAPI` `Next.js` `LangChain` `ChromaDB` |
-| ☁️ **[GPU Cloud Forecasting](https://github.com/Het2518/gpu-cloud-resource-forecasting)** | GPU demand forecasting with a full production ML lifecycle — tracking, serving, monitoring, dashboards | `PyTorch` `XGBoost` `MLflow` `Grafana` |
-| 🚕 **[Uber Ride Intelligence](https://github.com/Het2518/UBER_DATA_ANALYSIS)** | Multi-task pipeline — ride-outcome prediction, CatBoost fare prediction, LSTM demand forecasting, K-Means segmentation | `Scikit-Learn` `CatBoost` `Power BI` |
-| 🦈 **[Shark Tank Intelligence](https://github.com/Het2518/SHARK_TANK_X_3)** | Three-task pipeline — deal prediction (62% acc.), valuation (R² 0.77), multi-label investor prediction | `Pandas` `Gradient Boosting` `Lasso` |
-
-</div>
-
-<br/>
-
-## 🔬 Research Focus
+## Research Focus
 
 <div align="center">
 
@@ -85,7 +103,7 @@ print(het.mission())
 | Computer Vision | Image classification, transfer learning, Vision Transformers |
 | Generative AI | LLM applications, retrieval-augmented generation, AI agents |
 | Signal Intelligence | RF spectrogram classification |
-| Applied Machine Learning | Classification, regression, clustering on real-world data |
+| Infrastructure | Cloud-native monitoring, containerized ML services |
 | Forecasting | Time-series modeling, resource and demand forecasting |
 | Explainable AI | Grad-CAM and other model interpretation methods |
 | MLOps | Experiment tracking, model serving, monitoring, deployment |
@@ -96,11 +114,11 @@ print(het.mission())
 
 <br/>
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,react,nodejs,mongodb,docker,git,java,cpp,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,react,nodejs,mongodb,docker,git,java,cpp,js,aws,grafana&theme=light" />
 
 <br/><br/>
 
@@ -118,6 +136,7 @@ print(het.mission())
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -135,27 +154,7 @@ print(het.mission())
 
 <br/>
 
-## 📂 More Projects
-
-<div align="center">
-
-| Project | What I Built | Core Tech |
-|:---|:---|:---:|
-| **[DataDesk](https://github.com/Het2518/SQL_Practice)** | Browser-based SQL learning platform — SQLite/WASM, Monaco Editor, ER diagrams | `React` `WASM` `Supabase` |
-| **[IPL Win Predictor](https://github.com/Het2518/IPL-Analysis-ML-Project)** | Ball-by-ball IPL win probability prediction | `XGBoost` `Streamlit` |
-| **[GujEstate AI](https://github.com/Het2518/GujEstateAI-Gujarat-Real-Estate-Prediction-System)** | Gujarat real-estate valuation pipeline | `Scikit-Learn` `Pandas` |
-| **[LinkedIn Recommendation](https://github.com/Het2518/Linkedin_Recommendation)** | NLP-based professional recommendation system | `Python` `NLP` `GenAI` |
-| **[MovieMingle](https://github.com/Het2518/MovieMingle)** | AI-powered movie discovery app | `React` `OpenAI` |
-| **[ML Practice](https://github.com/Het2518/Machine_Learning_Practice)** | ML experiments and implementations | `Python` `Jupyter` |
-| **[Deep Learning Coursework](https://github.com/Het2518/Deep-Learning-SEM-2)** | Deep-learning coursework | `Python` `Jupyter` |
-| **[Biometric Security](https://github.com/Het2518/Biometric-Security-Lab)** | Biometric security and recognition experiments | `Python` `Jupyter` |
-| **[Daily LeetCode](https://github.com/Het2518/daily-leetcode)** | Consistent DSA practice | `Java` `DSA` |
-
-</div>
-
-<br/>
-
-## 🎓 Academic Journey
+## Academic Journey
 
 <div align="center">
 
@@ -168,7 +167,7 @@ print(het.mission())
 
 <br/>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -193,7 +192,7 @@ print(het.mission())
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -209,7 +208,7 @@ I'm interested in **Machine Learning, Deep Learning, Computer Vision, Generative
 
 <br/>
 
-### 💼 Open to AI/ML Engineering, Research, and Software Engineering opportunities
+### Open to AI/ML Engineering, Research, and Software Engineering opportunities
 
 <br/>
 
