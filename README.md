@@ -171,8 +171,8 @@ I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Het2518&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Het2518&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Het2518&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het2518&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" />
 
 <br/><br/>
 
