@@ -222,15 +222,13 @@ Three-task pipeline — deal prediction (62% acc.), valuation modeling (R² 0.77
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Het2518&theme=tokyonight&hide_border=true" alt="Het's GitHub streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Het2518&theme=tokyonight&hide_border=true" alt="Het's GitHub streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Het2518/Het2518/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Contribution snake animation" />
+<img width="100%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Het2518&theme=tokyo-night&hide_border=true&area=true" alt="Het's GitHub activity graph" />
 
 </div>
-
-> The animated grid above needs a one-time setup — see `github-contribution-grid-snake.yml` for the ready-to-use GitHub Action. Once added to your profile repo, it renders automatically and never depends on a third-party server.
 
 <br/>
 
