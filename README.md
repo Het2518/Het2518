@@ -1,29 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Het%20Monpara&fontSize=70&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%7C%20GenAI%20%7C%20M.Tech%20%40%20DA-IICT&descAlignY=58&descSize=17&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0e7490&height=210&section=header&text=Het%20Monpara&fontSize=54&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20GenAI%20%E2%80%A2%20M.Tech%20@%20DA-IICT&descAlignY=56&descSize=15&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://hetmonpara.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems;Deep+Learning+%7C+Computer+Vision+%7C+GenAI;RAG+Pipelines+%2B+MLOps+%2B+Applied+ML;From+notebook+to+production%2C+end+to+end." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Building+production-grade+AI+systems;Deep+Learning+%7C+Computer+Vision+%7C+GenAI;RAG+Pipelines+%2B+MLOps+%2B+Applied+ML;From+notebook+to+production%2C+end+to+end." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Het2518&label=Profile+Views&color=8a2be2&style=for-the-badge&base=440" />
-<a href="https://github.com/Het2518?tab=followers"><img src="https://img.shields.io/github/followers/Het2518?label=Followers&style=for-the-badge&color=purple&labelColor=2d2d2d" /></a>
-<a href="https://github.com/Het2518?tab=repositories"><img src="https://img.shields.io/badge/Repositories-46-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://hetmonpara.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<table>
+<tr>
+<td align="center"><b>46</b><br/><sub>Repositories</sub></td>
+<td align="center"><b>938+</b><br/><sub>Contributions</sub></td>
+<td align="center"><b>39</b><br/><sub>Day Streak</sub></td>
+<td align="center"><b>8.31</b><br/><sub>M.Tech CGPA</sub></td>
+</tr>
+</table>
+
+<p>
+  <a href="https://hetmonpara.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e7490?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/het2518"><img src="https://img.shields.io/badge/LinkedIn-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Het2518"><img src="https://img.shields.io/badge/GitHub-0e7490?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:hetamonpara@gmail.com"><img src="https://img.shields.io/badge/Email-0e7490?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Het2518&label=Profile+Views&color=0e7490&style=flat-square" />
 
 </div>
 
 <br/>
 
-## About Me
+## About
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhinagar**. I build intelligent systems end-to-end — not just training a model, but taking it from raw data through to something that's actually served, monitored, and used in the real world.
 
-I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhinagar**. My work centers on building intelligent systems end-to-end — not just training a model, but taking it from raw data through to something that's actually served, monitored, and used in the real world.
-
-**Currently building:**
+<table>
+<tr>
+<th width="50%">Currently Building</th>
+<th width="50%">Currently Exploring</th>
+</tr>
+<tr>
+<td valign="top">
 
 - Deep learning for wireless RF signal classification
 - Sensor-based human activity recognition
@@ -32,62 +49,106 @@ I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhi
 - GPU demand forecasting and MLOps pipelines
 - Multi-task ML for ride intelligence
 
-**Currently exploring:** Vision Transformers, LLM agent systems, and distributed training
+</td>
+<td valign="top">
 
-<br clear="right"/>
+- Vision Transformers
+- LLM agent systems
+- Distributed training
+- Model serving at scale
 
----
+</td>
+</tr>
+</table>
 
-## Featured Projects
-
-<details open>
-<summary><b>Deep Learning & Computer Vision</b></summary>
 <br/>
 
-| Project | What It Does | Stack |
-|:---|:---|:---:|
-| **[RFVision](https://github.com/Het2518/RFVision)** | 21-class RF spectrogram classification — ResNet50, EfficientNet, ViT & CNN-ViT hybrids, LDAM + contrastive learning, Grad-CAM explainability | `PyTorch` `TIMM` `Grad-CAM` |
-| **[GymSense AI](https://github.com/Het2518/GymSense)** | Hybrid CNN + Dilated Self-Attention on 7-channel sensor telemetry — activity recognition, rep counting, tempo scoring, LLM coaching | `TensorFlow` `FastAPI` `React` `Groq` |
+## Featured Work
 
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>RFVision</h3>
+
+21-class RF spectrogram classification — ResNet50, EfficientNet, ViT & CNN-ViT hybrids, LDAM loss with contrastive learning, Grad-CAM explainability.
+
+`PyTorch` `TIMM` `Grad-CAM`
+
+<a href="https://github.com/Het2518/RFVision">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>GymSense AI</h3>
+
+Hybrid CNN + Dilated Self-Attention over 7-channel sensor telemetry for activity recognition, rep counting, tempo scoring, and LLM-driven coaching.
+
+`TensorFlow` `FastAPI` `React` `Groq`
+
+<a href="https://github.com/Het2518/GymSense">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Engineering Intelligence Hub</h3>
+
+Full-stack RAG platform — document ingestion, hybrid vector search, citation-backed LLM answers over engineering docs.
+
+`FastAPI` `Next.js` `LangChain` `ChromaDB`
+
+<a href="https://github.com/Het2518/Engineer-Hub-Intelligence-Platform">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>GPU Cloud Forecasting</h3>
+
+GPU demand forecasting with a full production ML lifecycle — experiment tracking, serving, monitoring, dashboards.
+
+`PyTorch` `XGBoost` `MLflow` `Grafana`
+
+<a href="https://github.com/Het2518/gpu-cloud-resource-forecasting">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Uber Ride Intelligence</h3>
+
+Multi-task pipeline covering ride-outcome prediction, CatBoost fare prediction, LSTM demand forecasting, and K-Means rider segmentation.
+
+`Scikit-Learn` `CatBoost` `Power BI`
+
+<a href="https://github.com/Het2518/UBER_DATA_ANALYSIS">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>Shark Tank Intelligence</h3>
+
+Three-task pipeline — deal prediction (62% acc.), valuation modeling (R² 0.77), and multi-label investor prediction.
+
+`Pandas` `Gradient Boosting` `Lasso`
+
+<a href="https://github.com/Het2518/SHARK_TANK_X_3">View repository →</a>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>Generative AI & Applied ML</b></summary>
+<summary><b>More projects — Web, Tools & Analysis</b></summary>
 <br/>
 
 | Project | What It Does | Stack |
 |:---|:---|:---:|
-| **[Engineering Intelligence Hub](https://github.com/Het2518/Engineer-Hub-Intelligence-Platform)** | Full-stack RAG platform — document ingestion, hybrid vector search, citation-backed LLM answers | `FastAPI` `Next.js` `LangChain` `ChromaDB` |
-| **[Uber Ride Intelligence](https://github.com/Het2518/UBER_DATA_ANALYSIS)** | Multi-task pipeline — ride-outcome prediction, CatBoost fare prediction, LSTM demand forecasting, K-Means segmentation | `Scikit-Learn` `CatBoost` `Power BI` |
-| **[Shark Tank Intelligence](https://github.com/Het2518/SHARK_TANK_X_3)** | Three-task pipeline — deal prediction (62% acc.), valuation (R² 0.77), multi-label investor prediction | `Pandas` `Gradient Boosting` `Lasso` |
-| **[STMP: Shark Tank Model Prediction](https://github.com/Het2518/STMP-Shark-Tank-Model-Prediction)** | Earlier-stage model exploring deal-outcome prediction on Shark Tank pitch data — the groundwork that led to Shark Tank Intelligence | `Python` `Scikit-Learn` |
-
-</details>
-
-<details>
-<summary><b>Infrastructure & MLOps</b></summary>
-<br/>
-
-| Project | What It Does | Stack |
-|:---|:---|:---:|
-| **[GPU Cloud Forecasting](https://github.com/Het2518/gpu-cloud-resource-forecasting)** | GPU demand forecasting with a full production ML lifecycle — tracking, serving, monitoring, dashboards | `PyTorch` `XGBoost` `MLflow` `Grafana` |
-| **[Smart Irrigation System](https://github.com/Het2518/Smart-Irrigation-System)** | Cloud-native IoT monitoring system for real-time sensor data — containerized services with managed observability on AWS | `Python` `Docker` `Prometheus` `AWS Managed Grafana` `AWS SigV4` |
-
-</details>
-
-<details>
-<summary><b>Web, Tools & Analysis</b></summary>
-<br/>
-
-| Project | What It Does | Stack |
-|:---|:---|:---:|
+| **[Smart Irrigation System](https://github.com/Het2518/Smart-Irrigation-System)** | Cloud-native IoT monitoring — containerized services with managed observability on AWS | `Docker` `Prometheus` `AWS` |
 | **[DataDesk](https://github.com/Het2518/SQL_Practice)** | Browser-based SQL learning platform — SQLite/WASM, Monaco Editor, ER diagrams | `React` `WASM` `Supabase` |
-| **[frame2pdf](https://github.com/Het2518/frame2pdf)** | Web-based utility for converting image frames into a single PDF document | `JavaScript` |
-| **[Cricket](https://github.com/Het2518/Cricket)** | Exploratory analysis and prediction modeling on cricket match data | `Python` `Jupyter` |
 | **[IPL Win Predictor](https://github.com/Het2518/IPL-Analysis-ML-Project)** | Ball-by-ball IPL win probability prediction | `XGBoost` `Streamlit` |
 | **[GujEstate AI](https://github.com/Het2518/GujEstateAI-Gujarat-Real-Estate-Prediction-System)** | Gujarat real-estate valuation pipeline | `Scikit-Learn` `Pandas` |
 | **[LinkedIn Recommendation](https://github.com/Het2518/Linkedin_Recommendation)** | NLP-based professional recommendation system | `Python` `NLP` `GenAI` |
 | **[MovieMingle](https://github.com/Het2518/MovieMingle)** | AI-powered movie discovery app | `React` `OpenAI` |
+| **[frame2pdf](https://github.com/Het2518/frame2pdf)** | Web utility converting image frames into a single PDF | `JavaScript` |
+| **[Cricket](https://github.com/Het2518/Cricket)** | Exploratory analysis and prediction modeling on cricket match data | `Python` `Jupyter` |
+| **[STMP](https://github.com/Het2518/STMP-Shark-Tank-Model-Prediction)** | Earlier-stage deal-outcome model — groundwork for Shark Tank Intelligence | `Python` `Scikit-Learn` |
 
 </details>
 
@@ -95,9 +156,7 @@ I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhi
 
 ## Research Focus
 
-<div align="center">
-
-| Area | What I'm Exploring |
+| Area | Focus |
 |:---|:---|
 | Deep Learning | CNNs, Transformers, representation learning |
 | Computer Vision | Image classification, transfer learning, Vision Transformers |
@@ -108,60 +167,47 @@ I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhi
 | Explainable AI | Grad-CAM and other model interpretation methods |
 | MLOps | Experiment tracking, model serving, monitoring, deployment |
 
-</div>
-
 > I care about the second half of that list as much as the first — a model that performs well in a notebook isn't the goal; a system that keeps performing well once it's serving real traffic is.
 
 <br/>
 
-## Technical Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,react,nodejs,mongodb,docker,git,java,cpp,js,aws,grafana&theme=light" />
+**Languages & Core**
+<br/>
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-<br/><br/>
+**ML / DL**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0f172a?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0f172a?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=flat-square&logo=pandas&logoColor=150458)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**GenAI / LLM**
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logoColor=1C3C3C)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0f172a?style=flat-square)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Infra & Tools**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Grafana](https://img.shields.io/badge/Grafana-0f172a?style=flat-square&logo=grafana&logoColor=F46800)
+![MLflow](https://img.shields.io/badge/MLflow-0f172a?style=flat-square)
+![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)
 
 <br/>
 
-`CNN` `ResNet` `EfficientNet` `Vision Transformers` `Transfer Learning` `LSTM` `XGBoost` `CatBoost` `Random Forest` `Contrastive Learning` `Grad-CAM` `RAG` `LLMs` `Vector Search` `Prompt Engineering`
-
-</div>
-
-<br/>
-
-## Academic Journey
-
-<div align="center">
-
-| Degree | Institution | Duration | Focus |
-|:---|:---|:---:|:---|
-| M.Tech — Machine Learning | DA-IICT, Gandhinagar | 2025–2027 | CGPA: 8.31/10 |
-| B.E. — Computer Engineering | GEC, Bhavnagar | 2021–2025 | CGPA: 8.61/10 |
+`CNN` `ResNet` `EfficientNet` `Vision Transformers` `LSTM` `CatBoost` `Contrastive Learning` `Grad-CAM` `RAG` `Vector Search` `Prompt Engineering`
 
 </div>
 
@@ -171,24 +217,29 @@ I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Het2518&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het2518&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Het2518&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Het's GitHub stats" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Het2518&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Het's most used languages" />
 
 <br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Het2518&theme=radical&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Het2518&theme=tokyonight&hide_border=true" alt="Het's GitHub streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Het2518&theme=react-dark&hide_border=true&area=true" />
-
-<br/><br/>
-
-<a href="https://github.com/Het2518?tab=achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=Het2518&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/Het2518/Het2518/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Contribution snake animation" />
 
 </div>
+
+> The animated grid above needs a one-time setup — see `github-contribution-grid-snake.yml` for the ready-to-use GitHub Action. Once added to your profile repo, it renders automatically and never depends on a third-party server.
+
+<br/>
+
+## Academic Journey
+
+| Degree | Institution | Duration | Result |
+|:---|:---|:---:|:---|
+| M.Tech — Machine Learning | DA-IICT, Gandhinagar | 2025 – 2027 | CGPA: 8.31 / 10 |
+| B.E. — Computer Engineering | GEC, Bhavnagar | 2021 – 2025 | CGPA: 8.61 / 10 |
 
 <br/>
 
@@ -198,20 +249,18 @@ I'm **Het Monpara**, pursuing my **M.Tech in Machine Learning at DA-IICT, Gandhi
 
 I'm interested in **Machine Learning, Deep Learning, Computer Vision, Generative AI**, and **Applied AI roles** that span the full ML lifecycle — from experimentation to production-ready systems.
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hetmonpara.netlify.app-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://hetmonpara.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Het%20Monpara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het2518)
-[![GitHub](https://img.shields.io/badge/GitHub-Het2518-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Het2518)
-[![Instagram](https://img.shields.io/badge/Instagram-het__2518-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/het_2518/)
-[![Email](https://img.shields.io/badge/Email-hetamonpara%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetamonpara@gmail.com)
-
-<br/>
+<p>
+  <a href="https://hetmonpara.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-hetmonpara.netlify.app-0e7490?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/het2518"><img src="https://img.shields.io/badge/LinkedIn-Het%20Monpara-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Het2518"><img src="https://img.shields.io/badge/GitHub-Het2518-0e7490?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/het_2518/"><img src="https://img.shields.io/badge/Instagram-het__2518-0e7490?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:hetamonpara@gmail.com"><img src="https://img.shields.io/badge/Email-hetamonpara%40gmail.com-0e7490?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ### Open to AI/ML Engineering, Research, and Software Engineering opportunities
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:164e63,100:0f172a&height=110&section=footer" width="100%"/>
 
 </div>
