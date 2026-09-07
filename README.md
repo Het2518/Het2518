@@ -24,7 +24,7 @@
   <a href="mailto:hetamonpara@gmail.com"><img src="https://img.shields.io/badge/Email-0e7490?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Het2518&label=Profile+Views&color=0e7490&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Het2518&label=Profile+Views&color=0e7490&style=flat-square&base=440" />
 
 </div>
 
